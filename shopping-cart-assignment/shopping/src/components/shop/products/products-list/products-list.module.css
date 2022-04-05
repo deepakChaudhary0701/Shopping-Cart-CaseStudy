@@ -1,0 +1,51 @@
+.card-col {
+  padding: 2px !important;
+}
+
+.card {
+  height: auto;
+  margin: 22px 3px 5px 34px !important;
+  border: 0px !important;
+  border-bottom: 3px dashed #d3d3d3 !important;
+  box-shadow: 8px 0px 9px 0px rgb(0 0 0 / 8%);
+}
+
+.buy-btn {
+  background-color: #c41a56 !important;
+  color: #ffffff !important;
+  font-family: revert !important;
+  text-align: center !important;
+  font-size: smaller !important;
+  padding: 5px 17px 5px 21px !important;
+}
+
+.mrp {
+  font-size: small;
+  font-weight: bold;
+  font-family: revert;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.desc-text {
+  font-size: 10px;
+  background-color: rgba(211, 211, 211, 0.829);
+  font-family: revert;
+  padding: 8px;
+  text-align: start;
+  height: 100px;
+  overflow: hidden;
+}
+
+.product-title {
+  height: 49px;
+  font-size: large !important;
+  font-weight: bolder !important;
+  font-family: revert !important;
+  text-align: start !important;
+}

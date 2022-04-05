@@ -1,0 +1,63 @@
+
+.navbar-box{
+    box-shadow: 5px 4px 8px #888888b7;
+    padding: 5px 0px !important;
+}
+
+.navbar-text{
+    font-family: cursive;
+}
+
+.auth-text{
+    font-size: smaller;
+    display: flex;
+    position: absolute;
+    right: 33px;
+    bottom: 59px;
+}
+
+.category {
+    margin-left: 108px;
+    margin-top: 35px;
+}
+
+.category-text{
+    margin-right: 27px;
+}
+
+.cart-btn{
+    padding: 12px 27px !important;
+    position: absolute;
+    right: 51px;
+    bottom: 0px;
+    color: #d3d3d3 !important;
+    background-color: rgb(211 211 211 / 69%) !important;
+}
+
+.items-text{
+    font-family: cursive;
+    color: #000000;
+    margin-left: 10px !important; 
+}
+
+.bump {
+    animation: bump 300ms ease-out;
+  }
+  
+  @keyframes bump {
+    0% {
+      transform: scale(1);
+    }
+    10% {
+      transform: scale(0.9);
+    }
+    30% {
+      transform: scale(1.1);
+    }
+    50% {
+      transform: scale(1.15);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }

@@ -1,0 +1,20 @@
+.container {
+  margin-top: 50px !important;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.signup-text {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 36px;
+}
+
+.text{
+    margin-right: 267px;
+}
+
+.signup-btn{
+  background-color: #c41a56 !important;
+}

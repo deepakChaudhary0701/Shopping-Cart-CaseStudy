@@ -1,0 +1,12 @@
+
+
+.footer-text {
+    background-color: #d3d3d3;
+    padding: 13px;
+    font-size: smaller;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+}
